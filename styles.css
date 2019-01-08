@@ -1,0 +1,16 @@
+#section {
+    height: 500px;
+    /* background: lightpink; */
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+}
+
+#image {
+    height:400px;
+}
